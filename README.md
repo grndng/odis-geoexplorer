@@ -100,7 +100,7 @@ pnpm dev
 
 ## Data
 
-You can explore 1662 datasets (as at 3 July 2024). WMS that exist as WFS (except arial images) have no been included in the search.
+You can explore 1662 datasets (as at 3 July 2024). WMS that exist as WFS (except aerial images) have not been included in the search.
 
 You can find more information about the data on this [Github repo](https://github.com/technologiestiftung/odis-geoexplorer-data).
 
@@ -114,8 +114,8 @@ New features, fixes, etc. should always be developed on a separate branch:
 
 - In your local repository, checkout the `main` branch.
 - Run `git checkout -b <name-of-your-branch>` to create a new branch (ideally following [Conventional Commits guidelines](https://www.conventionalcommits.org)).
-- Make your changes
-- Push your changes to the remote: `git push -u origin HEAD`
+- Make your changes.
+- Push your changes to the remote: `git push -u origin HEAD`.
 - Open a pull request.
 
 You can commit using the `npm run cm` command to ensure your commits follow our conventions.
